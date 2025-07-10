@@ -24,7 +24,7 @@ A curated showcase of production-grade **FastAPI** projects focused on authentic
 | **FastAPI Batch Scraper** | Batch URL scraping with async queues and UUID tracking | FastAPI, Pydantic, httpx, BeautifulSoup, SQLAlchemy | 🔗 [View Repo](https://github.com/yavuzakyazici/fastapi-batch-scraper) |
 | **Login System with JWT** | Access & refresh token flow with blacklist support | FastAPI, JWT, Pydantic | 🔗 [View Repo](https://github.com/yavuzakyazici/fastapi_login_example) |
 | **Cloudflare R2 Integration** | File upload/download with presigned S3-compatible URLs | FastAPI, Boto3, Cloudflare R2 | 🔗 [View Repo](https://github.com/yavuzakyazici/cloudflare_boto3_example) |
-| **Video Streaming API** | Byte-range video delivery via `StreamingResponse` | FastAPI, ASGI, Media | 🔗 [View Repo]([https://github.com/yavuzakyazici/fastapi-video-streaming](https://github.com/yavuzakyazici/fastapi_video)) |
+| **Video Streaming API** | Byte-range video delivery via `StreamingResponse` | FastAPI, ASGI, Media | 🔗 [View Repo](https://github.com/yavuzakyazici/fastapi_video) |
 
 ---
 
